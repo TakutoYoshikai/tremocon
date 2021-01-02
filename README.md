@@ -1,5 +1,5 @@
 # tremocon
-tremocon is a remote controller of tsystem PC.
+tremocon is a remote controller of Takuto's PC.
 
 ### License
 MIT License
